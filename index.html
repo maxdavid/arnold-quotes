@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>From the Book of Arnold</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" media="screen" />
+    <script type="text/javascript" src="./quotelist.js"></script>
+    <script type="text/javascript">
+      var indexQuote = Math.round(Math.random() * (quotes.length-1));
+      function showQuote(){
+        document.write("<div class=\"content\">");
+        document.write(quotes[indexQuote]);
+        document.write("</div>");
+      }
+      showQuote();
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
