@@ -65,7 +65,7 @@ var quotes=new Array()
   quotes[62] = "<div class=\"quote\">\"Doesn't anyone stay dead anymore?\"</div><div class=\"movie-title\">-- The 6th Day (2000)</div>"
   quotes[63] = "<div class=\"quote\">\"Let's... kick some ice.\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>"
   quotes[64] = "<div class=\"quote\">\"This is war.\"</div><div class=\"movie-title\">-- Jingle All the Way (1996)</div>"
-  quotes[65] = "<div class=\"quote\">Jehnna: \"Conan, what is best in life?\"<br />Arnold: \"To crush your enemies, see them driven before you, and hear the lamentation of the women.\"</div><div class=\"movie-title\">-- Conan the Barbarian (1982)</div>"
+  quotes[65] = "<div class=\"quote\">Jehnna: \"Conan, what is best in life?\"<br />Arnold: \"To crush your enemies, see them driven before you, and hear the lamentation of their women.\"</div><div class=\"movie-title\">-- Conan the Barbarian (1982)</div>"
   quotes[66] = "<div class=\"quote\">\"If it bleeds... we can kill it.\"</div><div class=\"movie-title\">-- Predator (1987)</div>"
   quotes[67] = "<div class=\"quote\">\"Now this is the plan: get your ass to Mars.\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
   quotes[68] = "<div class=\"quote\"><span class=\"action\">*shoots a guy while diving into cover*</span><br />Lee: \"You're late.\"<br />Arnold: \"Traffic.\"</div><div class=\"movie-title\">-- Eraser (1996)</div>"
