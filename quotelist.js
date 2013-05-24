@@ -43,7 +43,7 @@ var quotes=new Array()
   quotes[40] = "<div class=\"quote\">\"The hell you will...\"</div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
   quotes[41] = "<div class=\"quote\">\"The hell with you.\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
   quotes[42] = "<div class=\"quote\">\"Who the hell are you??\"</div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
-  quotes[43] = "<div class=\"quote\">\"My name is John Kimble.\"<br /><span class=\"action\">*cocks shotgun*</span><br />\"And I love my car.\"</div><div class=\"movie-title\">-- Kindergarten Cop (1990)</div>"
+  quotes[43] = "<div class=\"quote\">\"My name is John Kimble...\"<br /><span class=\"action\">*cocks shotgun*</span><br />\"And I love my car.\"</div><div class=\"movie-title\">-- Kindergarten Cop (1990)</div>"
   quotes[44] = "<div class=\"quote\">Dude: \"You're shittin' me!\"<br />Arnold: \"I am not shitting on you.\"</div><div class=\"movie-title\">-- Red Heat (1988)</div>"
   quotes[45] = "<div class=\"quote\">\"Hey, you want to be a farmer? Here's a couple of acres.\"<br /><span class=\"action\">*kicks guy across the street*</span><br /></div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
   quotes[46] = "<div class=\"quote\"><span class=\"action\">*knocks guys out into urinal, flushes*</span><br />\"Here, cool off.\"</div><div class=\"movie-title\">-- True Lies (1994)</div>"
