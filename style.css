@@ -10,9 +10,11 @@ body {
 }
 
 .content {
-  width: 65%;
+  width: 70%;
+  position: relative;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 10%;
 }
 
 .quote {
@@ -24,7 +26,7 @@ body {
 }
 
 .movie-title {
-  margin: 10px 0 10px 30px;
+  padding: 20px 0 10px 15%;
   font-style: italic;
   font-size: 80%;
   color: gray;
