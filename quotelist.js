@@ -27,7 +27,7 @@ var quotes=new Array()
   quotes[24] = "<div class=\"quote\">Jehnna: \"I suppose nothing hurts you.\"<br />Arnold: \"Only pain.\"</div><div class=\"movie-title\">-- Conan the Destroyer (1984)</div>"
   quotes[25] = "<div class=\"quote\">Clerk: \"Hey! Are you gonna pay for that??\"<br />Arnold: \"Talk to the hand.\"</div><div class=\"movie-title\">-- Terminator 3: Rise of the Machines (2003)</div>"
   quotes[26] = "<div class=\"quote\"><span class=\"action\">*shirtless, wielding knife*</span><br /> \"Come on Bennett. Let's party.\"</div><div class=\"movie-title\">-- Commando (1985)</div>"
-  quotes[27] = "<div class=\"quote\">Guard: \"Give us the girl or we'll take her.\"<br />Arnold: \"Enough talk!\"> <span class=\"action\">*throws knife into guard's chest*</span><br /></div><div class=\"movie-title\">-- Conan the Destroyer (1984)</div>"
+  quotes[27] = "<div class=\"quote\">Guard: \"Give us the girl or we'll take her.\"<br />Arnold: \"Enough talk!\"<br /><span class=\"action\">*throws knife into guard's chest*</span><br /></div><div class=\"movie-title\">-- Conan the Destroyer (1984)</div>"
   quotes[28] = "<div class=\"quote\">\"Into the boat!\"</div><div class=\"movie-title\">-- Conan the Destroyer (1984)</div>"
   quotes[29] = "<div class=\"quote\">\"Into the tunnel!\"</div><div class=\"movie-title\">-- Conan the Destroyer (1984)</div>"
   quotes[30] = "<div class=\"quote\">\"GET TO THE CHOPPAAAAAAAA\"</div><div class=\"movie-title\">-- Predator (1987)</div>"
