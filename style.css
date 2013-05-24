@@ -1,0 +1,26 @@
+/**
+ * lolol
+ * by pipecork/maxdavid
+ */
+
+body {
+  margin: 15% auto 30px auto;
+  font-family: Consolas, Courier, monospace;
+}
+
+.content {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 100%;
+}
+
+.quote {
+  line-height: 1.5;
+}
+
+.movie-title {
+  margin: 10px 0 10px 30px;
+  font-style: italic;
+  color: gray;
+}
