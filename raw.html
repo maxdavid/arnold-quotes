@@ -242,13 +242,11 @@
       quotes[229] = "John: \"Is it dead?\" Arnold: \"Terminated.\"  -- Terminator 2: Judgment Day (1991)"
       quotes[230] = "*grabs box with cat in it* \"Ok, enough philosophy. I've got to get going.\"  -- The 6th Day (2000)"
       quotes[231] = "Kirby: \"Until next time.\" Arnold: \"No chance.\"  -- Commando (1985)"
-
-
-      var indexQuote = Math.round(Math.random() * (quotes.length-1));
-      function showQuote(){ document.write(quotes[indexQuote]); }
-      showQuote();
     </script>
   </head>
   <body>
+    var indexQuote = Math.round(Math.random() * (quotes.length-1));
+    function showQuote(){ document.write(quotes[indexQuote]); }
+    showQuote();
   </body>
 </html>
