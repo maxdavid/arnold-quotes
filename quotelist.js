@@ -56,7 +56,7 @@ var quotes=new Array()
   quotes[53] = "<div class=\"quote\">\"You're a stupid.\"</div><div class=\"movie-title\">-- Red Heat (1988)</div>"
   quotes[54] = "<div class=\"quote\"><span class=\"action\">*ice cream truck explodes*</span><br />\"Iced that guy... to cone a phrase.\"</div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
   quotes[55] = "<div class=\"quote\"><span class=\"action\">*car crashes into cola billboard*</span><br />\"Well that hit the spot.\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
-  quotes[56] = "<div class=\"quote\">\"To be. Or not to be... Not to be.\"<br /><span class=\"action\">*lights cigar as building expdlodes*</span><br /></div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
+  quotes[56] = "<div class=\"quote\">\"To be... or not to be?\"<br /><span class=\"action\">*lights cigar as building explodes*</span><br />\"Not to be.\"</div><div class=\"movie-title\">-- Last Action Hero (1993)</div>"
   quotes[57] = "<div class=\"quote\">\"The ice man cometh!\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>"
   quotes[58] = "<div class=\"quote\">\"Hey, lighthead! Hey, christmas tree!\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
   quotes[59] = "<div class=\"quote\">Buzzsaw: \"I love this saw. This saw's part of me. And I'M GONNA MAKE IT PART OF YOU!\"<br />Arnold: \"That's alright, keep it!\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
