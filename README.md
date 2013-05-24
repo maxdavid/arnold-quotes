@@ -1,4 +1,4 @@
-Arnold One-liner
-================
+Arnold Quotes
+=============
 
-Generate a random Arnold Schwarzenegger one-liner.
+Get a random Arnold Schwarzenegger quote. Check it out [here](http://pipecork.github.io/arnold-quotes/).

@@ -343,8 +343,10 @@ Chicago: "Of course I'm bleeding! You fucking shot me!"
 %
 "Shit!"
         -- Total Recall (1990)
+%
 "Shit... SHIT!"
         -- Total Recall (1990)
+%
 "SHIT!"
         -- Total Recall (1990)
 %
