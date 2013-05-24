@@ -247,7 +247,10 @@
   <body>
     <script type="text/javascript">
       var indexQuote = Math.round(Math.random() * (quotes.length-1));
-      function showQuote(){ document.write(quotes[indexQuote]); }
+      function showQuote(){
+        document.write("<h1>");
+        document.write(quotes[indexQuote]);
+        document.write("</h1>"); }
       showQuote();
     </script>
   </body>
