@@ -207,7 +207,7 @@ var quotes=new Array()
   quotes[204] = "<div class=\"quote\">\"Hercules goes where he wishes.\"</div><div class=\"movie-title\">-- Hercules in New York (1969)</div>"
   quotes[205] = "<div class=\"quote\">\"I'm afraid that my position has left me... cold to your pleas of mercy.\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>"
   quotes[206] = "<div class=\"quote\">\"If I'm not me, who the hell am I?\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
-  quotes[207] = "<div class=\"quote\">\"You have no respect for logic. And I have no respect for those with no respect to logic.\"</div><div class=\"movie-title\">-- Twins (1988)</div>"
+  quotes[207] = "<div class=\"quote\">\"You have no respect for logic. And I have no respect for those with no respect for logic.\"</div><div class=\"movie-title\">-- Twins (1988)</div>"
   quotes[208] = "<div class=\"quote\">\"Adam... and Evil.\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>"
   quotes[209] = "<div class=\"quote\">\"Your confusion is not rational. She is a healthy female of breeding age.\"</div><div class=\"movie-title\">-- Terminator 3: Rise of the Machines (2003)</div>"
   quotes[210] = "<div class=\"quote\">\"What the hell is going on here? There's someone in my house, eating my birthday cake, and it's not me.\"</div><div class=\"movie-title\">-- The 6th Day (2000)</div>"
