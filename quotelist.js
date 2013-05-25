@@ -14,7 +14,7 @@ var quotes=new Array()
   quotes[11] = "<div class=\"quote\">Killian: \"You bastard. Drop dead!\"<br />Arnold: \"I don't do requests.\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
   quotes[12] = "<div class=\"quote\">Killian: \"Do you know who I am?\"<br />Arnold: \"I've seen you before. You're the asshole on TV.\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>"
   quotes[13] = "<div class=\"quote\">Tony: \"You got a lot of nerve showing your face around here, Hauser.\"<br />Arnold: \"Heh, look who's talking.\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
-  quotes[14] = "<div class=\"quote\">Melina: \"What you been feeding this thing?\"> <span class=\"action\">*grabs his junk*</span><br />Arnold: \"Blondes.\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
+  quotes[14] = "<div class=\"quote\">Melina: \"What you been feeding this thing?\"<br /><span class=\"action\">*grabs his junk*</span><br />Arnold: \"Blondes.\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
   quotes[15] = "<div class=\"quote\">\"Ha! Crom laughs at your Four Winds.\"</div><div class=\"movie-title\">-- Conan the Barbarian (1982)</div>"
   quotes[16] = "<div class=\"quote\">Arnold: \"You're a funny guy, Sully, I like you.\"<br />Sully: <span class=\"action\">*smiles*</span><br />Arnold: \"That's why I'm going to kill you last.\"</div><div class=\"movie-title\">-- Commando (1985)</div>"
   quotes[17] = "<div class=\"quote\">\"Bullshit.\"</div><div class=\"movie-title\">-- Total Recall (1990)</div>"
