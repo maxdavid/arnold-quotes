@@ -1,7 +1,7 @@
 Arnold Quotes
 =============
 
-Get a random Arnold Schwarzenegger quote with JavaScript. Check it out [here](http://pipecork.github.io/arnold-quotes/).
+Get a random Arnold Schwarzenegger quote with JavaScript. Check it out [here](http://maxdavid.github.io/arnold-quotes/).
 
 ### Credits
 * Big shouts to [Nate](https://github.com/TranquilMarmot), our original transcriber on that [one fateful night](https://gist.github.com/TranquilMarmot/5130338).
