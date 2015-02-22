@@ -1,4 +1,4 @@
-var q = [ 
+var quotes = [ 
   "<div class=\"quote\">\"It's showtime!\"</div><div class=\"movie-title\">-- The Running Man (1987)</div>",
   "<div class=\"quote\">\"Alright everyone, chill.\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>",
   "<div class=\"quote\">\"Allow me to break the ice.\"</div><div class=\"movie-title\">-- Batman & Robin (1997)</div>",
